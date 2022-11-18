@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - SelectedItem
+  - CrassLayer
+  - NotificationWindow
+  - iconTag
+  - Infopanel
+  - Tree
+  - SlotIcon
+  - TittleText
+  - DescriptionText
+  - RequirementsPanel
+  - CraftingMenuCraftButton
+  - Indicator
+  - ItemIcon
+  - ProgressBar
+  - Enemy
+  - WeaponHolder
+  - SpawnPoints
+  - Seed
+  - Pickup
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Background
+  - Water
+  - UI
+  - AboveUI
+  - Interactables
+  - Player
+  - Walls
+  - Pickups
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: MapEdge
+    uniqueID: 1582525319
+    locked: 0
+  - name: Background
+    uniqueID: 2235825185
+    locked: 0
+  - name: ForeGround
+    uniqueID: 434333737
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Items
+    uniqueID: 1608854869
+    locked: 0
+  - name: Indicators
+    uniqueID: 4149405943
+    locked: 0
+  - name: top
+    uniqueID: 2687312947
+    locked: 0
+  - name: OverMC
+    uniqueID: 1054159499
+    locked: 0
